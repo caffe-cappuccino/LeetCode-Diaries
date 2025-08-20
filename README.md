@@ -55,7 +55,7 @@ But if you have a cleaner or cuter approach, feel free to open a PR 🌷
 
 ## 📬 Contact
 
-👩‍💻 **Author:** Jheelam Hossain
+👩‍💻 **Author:** Jheelam
 🌸 GitHub: [jheelamH](https://github.com/jheelamH)
 
 ---
